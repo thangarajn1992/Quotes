@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Quotes](README.md)
+* [Marriage](marriage.md)
+* [General Life](general-life.md)
 
