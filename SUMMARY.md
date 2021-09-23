@@ -5,3 +5,7 @@
 * [General Life](general-life.md)
 * [Money](money.md)
 
+## Moral Stories
+
+* [The Donkey and the Well](moral-stories/the-donkey-and-the-well.md)
+
