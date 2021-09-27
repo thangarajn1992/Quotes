@@ -8,4 +8,5 @@
 ## Moral Stories
 
 * [The Donkey and the Well](moral-stories/the-donkey-and-the-well.md)
+* [Grass is Blue](moral-stories/grass-is-blue.md)
 

@@ -1,3 +1,7 @@
+---
+description: Never Give up
+---
+
 # The Donkey and the Well
 
 One day, a Donkey fell into the well. The animal cried piteously for hours as the farmer tried to figure out what to do. Finally, he decided the donkey was old and the well, has to be covered up anyway; it just wasn't worth to retrieve the donkey. He invited all his neighbors to come over and help him. They all grabbed a shovel and began to shovel dirt into the well. At first, donkey realized what was happening and cried horribly. Then, to everyone's amazement he quieted down. The wise animal hit on a plan.
